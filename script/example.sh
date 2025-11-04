@@ -1,4 +1,8 @@
+# Modifications Copyright © 2025 Advanced Micro Devices, Inc. All rights reserved.
+#
+
 #!/bin/bash
+
 export HIP_VISIBLE_DEVICES=0
 export SSL_CERT_DIR='/etc/ssl/certs'
 export REQUESTS_CA_BUNDLE='/etc/ssl/certs/ca-certificates.crt'
